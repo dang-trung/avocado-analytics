@@ -19,6 +19,7 @@ ENV/
 
 # VS Code project settings
 .vscode
+
 # Distribution / Packaging
 .Python
 env/
